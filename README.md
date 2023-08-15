@@ -1,6 +1,48 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Last week I realized I had been coding so far and not actually programming so here's my first full program with the guide of code along programers(I picked a very old video so i was forced to find the new commands or what exactly it did so i had to find alternatives. It was a great way to challenge myself and still start from somewhere no completely blind)
+My Instagram clone is a sipley post sharing platform. You can select an image from local storage, write a caption, upload file and know the progress with the progress bar. You can also make comments and delete your own posts. 
+
+
+What I learned from this project:
+
+-This project taught me how to implement a firebase database, config etc.
+-How to access database and with the help of JS and React play around.
+-I learned how to create users, implement buttons, limit who sees what(after HOURS of study. Totally worth it).
+-Taught me how the backend meets the frontend.I am able to visualise how the data flows into the code and find errors.
+-I learned about useStates and useEffects and its MANY benefits
+-How a templete can be created using props and how to instantly generate a post with custom caption, images and usernames. It all came together so well in the end.
+-I loved pairing up a button with an image with div tags and labels
+-I got to implement Modals
+-I got familiar with different files and how to import them with ease.
+React and firebase go hand in hand.
+
+
+My personal touches are:
+
+-Delete post button(my biggest achievement in this program)
+-the entire lower bar, upload button, plusIcon etc
+-SignUp, SignIn and Login buttons
+-Display Username of the account user
+-Instagram Icon
+
+
+I plan to implement and add:
+
+-Likes button and count
+-Edit and Delete buttons for the comments
+-Feedback box
+-Messaging area
+-User profile and stored posts
+-email verification
+
+
+I would love feedback on what I can improve or if you have any ideas<333
+
+I will add the web app link here when it's is successfully deployed.
+https://example.com/
+
+
 
 ## Available Scripts
 
