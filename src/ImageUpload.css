@@ -1,0 +1,86 @@
+.imageupload{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    border-top: 1px solid lightgray;
+    object-fit: contain;
+    position: sticky;
+    bottom: 0;
+    z-index: 1;
+}
+
+.bars{
+    width: 70%;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    object-fit: contain;
+
+}
+
+.filepicker{
+    display: none;
+}
+
+
+.imageupload__progress{
+    width: 100%;
+    object-fit: contain;
+
+
+}
+
+.captionbox{
+    width: 100%;
+    border: none;
+    outline-style: none;
+    box-shadow: none;
+    border-bottom: 1px solid gray;
+    padding: 3px;
+    height: 15px;
+    overflow: hidden;
+    resize: none;
+    object-fit: contain;
+
+}
+
+.plusIcon{
+    margin-right: 20px;
+    margin-top: .5px;
+    cursor: pointer;
+    object-fit: contain;
+
+}
+
+.plusImg{
+    height: 47px;
+    margin-top: 7px;
+    margin-right: 8px;
+    cursor: pointer;
+    object-fit: contain;
+
+}
+
+#imageUpload__btn{
+    width: 20%;
+    height: 40px;
+    margin-right: 11px;
+    border-radius: 10px;
+    background-color:rgba(40,40,40,1);
+    margin-top: 5px;
+    color: beige;
+    font-size: 9px;
+    box-shadow: 0 1pc 1pc darkgray;
+    object-fit: contain;
+
+}
+

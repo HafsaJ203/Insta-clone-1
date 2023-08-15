@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+}
+
+.app{
+  background-color: #fafafa;
+  object-fit: contain;
+}
+
+.app__header {
+  background-color: white;
+  object-fit: contain;
+  padding: 2px;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  object-fit: contain;
+  width: 100%;
+}
+
+.app__headerImage{
+  height: 40px;
+  width: 21%;
+  object-fit: contain;
+}
+
+.app__headerImage2{
+  width: 30%;
+  object-fit: contain;
+}
+
+.app__signup{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  object-fit: contain;
+}
+
+#signUpbtn{
+color: black;
+cursor: pointer;
+object-fit: contain;
+}
+
+#signInbtn{
+  color: black;
+  cursor: pointer;
+  object-fit: contain;
+
+}
+
+#logOutbtn{
+  color: black;
+  object-fit: contain;
+
+}
+
+.app__posts{
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  object-fit: contain;
+
+}
+
+.app__postsRight{
+  object-fit: contain;
+  margin-left: 11px;
+}
+
+.loginInToUp{
+  background-color: white;
+  border-top: 1px solid lightgray;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 7px;
+  position: sticky;
+  z-index: 0;
+  bottom: 0;
+  color: black;
+  cursor: pointer;
+  object-fit: contain;
+
+}
+
+
+.username_display{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-top: 11px;
+  cursor: pointer;
+  object-fit: contain;
+
+}
+
+.logout_username{
+  display: flex;
+  flex-direction: reverse;
+  object-fit: contain;
+
+}
