@@ -40,7 +40,7 @@ I plan to implement and add:
 I would love feedback on what I can improve or if you have any ideas<333
 
 I will add the web app link here when it's is successfully deployed.
-https://example.com/
+https://insta-clone-8c743.web.app/
 
 
 
